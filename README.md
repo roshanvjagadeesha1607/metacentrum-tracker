@@ -86,3 +86,12 @@ On first launch it'll ask for:
 - Uses `qstat -f -u <username>` under the hood — if MetaCentrum ever changes
   its PBS scheduler output format, the parser in `JobParser.kt` may need
   small tweaks.
+
+## Disclaimer
+
+MetaCentrum Tracker is an independent, unofficial Android
+project. It is not developed, endorsed, or maintained by
+MetaCentrum or CESNET.
+
+Users must follow MetaCentrum's official access and
+acceptable-use policies.
