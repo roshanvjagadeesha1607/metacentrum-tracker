@@ -1,0 +1,25 @@
+# Gradle and Android Studio
+.gradle/
+.idea/
+**/build/
+.cxx/
+local.properties
+*.iml
+
+# Generated Android packages
+*.apk
+*.aab
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+
+# Credentials and signing keys
+*.jks
+*.keystore
+*.pem
+*.p12
+*.p8
+id_rsa
+id_ed25519
