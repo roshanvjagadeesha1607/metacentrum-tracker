@@ -1,6 +1,0 @@
-<resources>
-    <color name="colorRunning">#2E7D32</color>
-    <color name="colorQueued">#F9A825</color>
-    <color name="colorCompleted">#757575</color>
-    <color name="colorHeld">#8E24AA</color>
-</resources>
