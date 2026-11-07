@@ -73,6 +73,8 @@ also successfully demonstrated.
 
 ## Important security limitations
 
+**Security Recommendation:** For your account security, avoid logging in to MetaCentrum Tracker while connected to public or untrusted Wi-Fi networks. Prefer a trusted network or your mobile data connection. Never share your MetaCentrum credentials with others.
+
 This beta retains the security limitations of the original app:
 
 - SSH server host-key verification is disabled.
