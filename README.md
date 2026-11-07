@@ -70,8 +70,6 @@ The beta APK was successfully installed and opened on
 another Android phone. SSH login and PBS job retrieval were
 also successfully demonstrated.
 
-Background notifications and compatibility across different
-Android devices have not yet been fully verified.
 
 ## Important security limitations
 
