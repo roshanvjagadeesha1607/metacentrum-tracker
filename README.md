@@ -22,13 +22,11 @@ This is a code reference, not the original Android Studio
 source project. It has not been independently rebuilt
 or verified as a complete buildable project.
 
-## Security
+## Security Recommendation
 
-No personal login credentials, SSH private keys, or
-saved application settings are intentionally included.
+For your account security, avoid logging in to MetaCentrum Tracker while connected to public or untrusted Wi-Fi networks. Prefer a trusted network or mobile data. Never share your MetaCentrum credentials with others.
 
-The recovered application has known security limitations
-documented in SECURITY.md.
+For technical security information, see [SECURITY.md](SECURITY.md).
 
 ## Disclaimer
 
@@ -70,23 +68,6 @@ The beta APK was successfully installed and opened on
 another Android phone. SSH login and PBS job retrieval were
 also successfully demonstrated.
 
-
-## Important security limitations
-
-**Security Recommendation:** For your account security, avoid logging in to MetaCentrum Tracker while connected to public or untrusted Wi-Fi networks. Prefer a trusted network or your mobile data connection. Never share your MetaCentrum credentials with others.
-
-This beta retains the security limitations of the original app:
-
-- SSH server host-key verification is disabled.
-- Saved passwords do not have application-level encryption.
-- The application has not undergone a security audit.
-
-This version is intended for testing and evaluation.
-It is not recommended for production credentials until
-these issues are corrected.
-
-The project is unofficial and is not affiliated with
-or endorsed by MetaCentrum or CESNET.
 
 ## Source code
 
