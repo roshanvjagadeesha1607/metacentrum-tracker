@@ -74,3 +74,13 @@ also successfully demonstrated.
 The `installed-version-reference/` folder contains recovered
 Java code from the installed application. It is a technical
 reference, not a complete buildable Android Studio project.
+## Screenshots
+
+### Connection settings
+![Connection settings](docs/images/metacentrum_connection_settings.png)
+
+### Main dashboard
+![Main dashboard](docs/images/metacentrum_tracker_dashboard.png)
+
+### Example jobs view
+![Example jobs view](docs/images/metacentrum_tracker_example_jobs.png)
