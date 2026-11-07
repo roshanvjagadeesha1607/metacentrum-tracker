@@ -74,4 +74,3 @@ The `installed-version-reference/` folder contains recovered
 Java code from the installed application. It is a technical
 reference, not a complete buildable Android Studio project.
 
-View [application screenshots](docs/SCREENSHOTS.md) for examples of the interface.
