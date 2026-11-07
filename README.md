@@ -95,3 +95,11 @@ MetaCentrum or CESNET.
 
 Users must follow MetaCentrum's official access and
 acceptable-use policies.
+
+
+## Installed application code reference
+
+The later installed version is documented in
+[installed-version-reference](installed-version-reference/README.md).
+
+This decompiled code is for reference and is not verified as buildable.

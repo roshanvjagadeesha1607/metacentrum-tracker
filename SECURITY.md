@@ -22,3 +22,10 @@ Never commit personal SSH keys, passwords, tokens, or credentials.
 
 Implement verified SSH host-key checking, review credential handling,
 and rebuild and test the application.
+
+
+## Later installed version
+
+The recovered application supports password authentication.
+Its SSH host verification and password storage require security improvements
+before distributing it as a production-ready application.
